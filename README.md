@@ -1,2 +1,2 @@
-# customDTEANDtIME
+# customDATEandTIME
 Created with CodeSandbox
